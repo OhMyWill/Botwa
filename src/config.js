@@ -65,7 +65,7 @@ Prem: JSON.parse(fs.readFileSync('./db/premium.json')),
    waits: "Sedang di proses",
    butmag: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHDLrd0_DwHnJfuZ_pRMOAbLi3-ot-NxyPA&usqp=CAU',
    packname: "𝙈𝙊𝙉𝘼𝘼.",
-   author: '@_fearTeam',
+   author: '@𝙈𝙊𝙉𝘼𝘼.',
     setting: {
     admin: "only admin",
     group: "only group",
